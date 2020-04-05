@@ -1,0 +1,2 @@
+model_checkpoint_path: "wine_quality_model"
+all_model_checkpoint_paths: "wine_quality_model"
