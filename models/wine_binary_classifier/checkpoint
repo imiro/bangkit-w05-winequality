@@ -1,2 +1,0 @@
-model_checkpoint_path: "wine_binary_quality_model"
-all_model_checkpoint_paths: "wine_binary_quality_model"
